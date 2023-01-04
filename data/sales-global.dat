@@ -1,0 +1,399 @@
+SaleTransaction{uuid='F558B825-4728-911C-DB73-DB031A6E3F91',timestamp='14/04/2022 04:03:19',type='brazilian',size='P',price='€1.30',offer='',discount='15%',userId=3064,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A0E69BC8-25B0-1EA8-2B7F-5D0C7BF07738',timestamp='2022年04月04日 12時13分29秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1023,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='25EF49C1-E656-FDE5-048E-D959B3F65916',timestamp='18/04/2022 04:54:44',type='brazilian',size='G',price='€1.30',offer='',discount='',userId=3091,country=ITALY,city='Turin'}
+SaleTransaction{uuid='89A99228-D91F-0ABC-4864-514C0AC2CBA1',timestamp='23/04/2022 01:27:47',type='blend',size='M',price='€1.30',offer='',discount='25%',userId=3042,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A5E093BB-1042-C76F-DE29-751667A06B7B',timestamp='2022年04月07日 02時10分58秒',type='コロンビア',size='超大',price='¥1000',offer='',discount='30%',userId=1021,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='29C0E96C-13C2-64F4-BB4A-E6614ADFAF75',timestamp='23/04/2022 06:11:22',type='brazilian',size='GG',price='€3',offer='',discount='25%',userId=3046,country=ITALY,city='Turin'}
+SaleTransaction{uuid='972489C6-4D5C-3B22-E90D-328B8231A679',timestamp='2022年04月09日 09時04分17秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1021,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='9FEC7991-9F56-8338-8F7E-C7B0DD56C70D',timestamp='2022年04月24日 09時50分23秒',type='ブラジル',size='小',price='¥500',offer='sg',discount='',userId=1035,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='C2DEFBE4-5FFF-64A5-37AC-291BC3D51E9B',timestamp='30/04/2022 12:16:37',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3011,country=ITALY,city='Turin'}
+SaleTransaction{uuid='F9F0A201-1EBE-4ACC-D324-2BA341DB2244',timestamp='2022年04月04日 11時33分04秒',type='ブラジル',size='小',price='¥500',offer='ga',discount='20%',userId=1058,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B0C9B202-5639-5831-04CC-5D4EFB8440F7',timestamp='22/04/2022 03:34:00',type='brazilian',size='GG',price='€3',offer='h&l',discount='30%',userId=3098,country=ITALY,city='Turin'}
+SaleTransaction{uuid='CC2435EE-D56B-8FE1-0AB9-0C2FFCDF33A8',timestamp='2022年04月11日 06時42分11秒',type='イタリア',size='大',price='¥800',offer='',discount='',userId=1027,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='979867CE-12EC-1BF9-0445-ED3F6D2B246D',timestamp='2022年04月17日 10時14分01秒',type='ブラジル',size='小',price='¥500',offer='',discount='',userId=1090,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B36F72C1-7380-3982-8020-6AE5AD4058F9',timestamp='01/04/2022 05:25:23',type='colombian',size='M',price='€1.30',offer='',discount='15%',userId=3019,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A9D07A6F-5517-0F35-950C-514CD4FAA837',timestamp='26/04/2022 07:18:06',type='brazilian',size='GG',price='€3',offer='sg',discount='',userId=3069,country=ITALY,city='Turin'}
+SaleTransaction{uuid='7E0BFF04-600A-1D31-CF2A-5D1D4583E1F0',timestamp='2022年04月26日 05時18分26秒',type='イタリア',size='大',price='¥800',offer='',discount='25%',userId=1045,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='12EC5548-A550-D6E2-4458-126E950F5706',timestamp='17/04/2022 03:39:27',type='colombian',size='G',price='€1.30',offer='',discount='30%',userId=3021,country=ITALY,city='Turin'}
+SaleTransaction{uuid='E12A212F-252C-44EE-B095-D09916AC21C7',timestamp='2022年04月16日 10時05分12秒',type='イタリア',size='大',price='¥800',offer='',discount='',userId=1013,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='FFEC693C-0E36-1BF3-A181-881F5613CB14',timestamp='27/04/2022 12:54:33',type='colombian',size='GG',price='€3',offer='',discount='20%',userId=3051,country=ITALY,city='Turin'}
+SaleTransaction{uuid='07D0B8E8-7491-EBD3-FE96-30B6583B8EEA',timestamp='2022年04月25日 07時28分38秒',type='イタリア',size='超大',price='¥1000',offer='gft',discount='25%',userId=1095,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='11A09D9B-1D66-5BC6-C587-A7310DC36C7F',timestamp='14/04/2022 02:38:45',type='brazilian',size='GG',price='€3',offer='sg',discount='',userId=3039,country=ITALY,city='Turin'}
+SaleTransaction{uuid='8ABDDC9A-040F-1309-B831-01F25D7E3D1D',timestamp='30/04/2022 06:47:59',type='colombian',size='P',price='€1.30',offer='',discount='25%',userId=3027,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A324784A-D8B5-1CED-1D1C-C4EB40F18574',timestamp='30/04/2022 02:42:21',type='brazilian',size='G',price='€1.30',offer='',discount='15%',userId=3004,country=ITALY,city='Turin'}
+SaleTransaction{uuid='FE5382B5-A32A-4BF4-726A-2931A66778CA',timestamp='15/04/2022 01:35:37',type='blend',size='GG',price='€3',offer='h&l',discount='',userId=3058,country=ITALY,city='Turin'}
+SaleTransaction{uuid='05C24EDA-1F57-3317-4416-5CA1EFCCAA6C',timestamp='19/04/2022 07:34:34',type='blend',size='G',price='€1.30',offer='sg',discount='',userId=3039,country=ITALY,city='Turin'}
+SaleTransaction{uuid='0C8AD335-C6C5-2164-1A55-78FF9AFA05DD',timestamp='2022年04月15日 09時37分05秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1042,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B2738E73-D35B-5DC6-B228-5E4189177878',timestamp='23/04/2022 10:36:03',type='colombian',size='GG',price='€3',offer='h&l',discount='',userId=3016,country=ITALY,city='Turin'}
+SaleTransaction{uuid='18F58B62-DDFB-AEEE-0995-1CC81E5815C6',timestamp='26/04/2022 10:05:50',type='blend',size='P',price='€1.30',offer='',discount='',userId=3040,country=ITALY,city='Turin'}
+SaleTransaction{uuid='C76E5F11-BF2D-DD53-5E50-74734535517A',timestamp='26/04/2022 04:17:22',type='brazilian',size='M',price='€1.30',offer='',discount='',userId=3032,country=ITALY,city='Turin'}
+SaleTransaction{uuid='0DCDCE48-F8DC-3BB4-0E02-6E19A7FDCBFC',timestamp='2022年04月25日 06時05分43秒',type='ブレンド',size='中',price='¥600',offer='ga',discount='25%',userId=1048,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='1BF047DA-D249-654A-D878-A328FF512B5A',timestamp='05/04/2022 04:37:53',type='espresso',size='GG',price='€3',offer='',discount='25%',userId=3009,country=ITALY,city='Turin'}
+SaleTransaction{uuid='3092D2E9-A62F-BCBD-2A07-E150B6F28703',timestamp='2022年04月29日 04時36分25秒',type='コロンビア',size='大',price='¥800',offer='',discount='',userId=1065,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='90957A21-A911-5A9F-7B40-7246D2E0DDF8',timestamp='09/04/2022 07:32:26',type='blend',size='M',price='€1.30',offer='',discount='15%',userId=3078,country=ITALY,city='Turin'}
+SaleTransaction{uuid='0A8B9FB0-7967-0460-27B2-427C05EB0D9D',timestamp='2022年04月01日 05時34分31秒',type='コロンビア',size='中',price='¥600',offer='',discount='',userId=1020,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='9A389350-B88E-23B1-C92D-A923D45D9809',timestamp='22/04/2022 01:14:55',type='blend',size='G',price='€1.30',offer='ga',discount='30%',userId=3041,country=ITALY,city='Turin'}
+SaleTransaction{uuid='80F82DDB-34CE-5340-5BA8-0DF12B6DB17C',timestamp='30/04/2022 06:22:28',type='brazilian',size='M',price='€1.30',offer='',discount='',userId=3074,country=ITALY,city='Turin'}
+SaleTransaction{uuid='93D41DAB-2F6C-8DC0-4764-CFFAAD4A27F7',timestamp='2022年04月09日 07時22分54秒',type='ブレンド',size='中',price='¥600',offer='gft',discount='30%',userId=1032,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='C0913484-120C-52E7-9A8A-3714CF5752A1',timestamp='19/04/2022 02:23:10',type='blend',size='P',price='€1.30',offer='',discount='',userId=3071,country=ITALY,city='Turin'}
+SaleTransaction{uuid='50B0A061-4D94-D66A-9474-7159989703DB',timestamp='05/04/2022 11:22:41',type='blend',size='G',price='€1.30',offer='',discount='',userId=3099,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B02BEB30-DD6A-DEC5-11A6-8242E056BF0B',timestamp='03/04/2022 04:29:32',type='brazilian',size='G',price='€1.30',offer='',discount='',userId=3022,country=ITALY,city='Turin'}
+SaleTransaction{uuid='EB87D041-20E9-043D-1377-EDDB9E130AA4',timestamp='22/04/2022 10:57:38',type='blend',size='GG',price='€3',offer='gft',discount='',userId=3049,country=ITALY,city='Turin'}
+SaleTransaction{uuid='90176763-7ED3-F52C-1348-854BE9F738BB',timestamp='2022年04月04日 02時23分12秒',type='コロンビア',size='中',price='¥600',offer='h&l',discount='',userId=1055,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='4DADDA82-7AA9-C0DB-5FEB-7051450BDA29',timestamp='2022年04月15日 12時26分10秒',type='コロンビア',size='中',price='¥600',offer='',discount='',userId=1056,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E6CFAE4E-DF55-106D-CDC5-DE143A4DCC9D',timestamp='13/04/2022 09:54:05',type='brazilian',size='M',price='€1.30',offer='h&l',discount='25%',userId=3024,country=ITALY,city='Turin'}
+SaleTransaction{uuid='E2FA5E28-6915-CA70-6419-1B335EFD9E81',timestamp='07/04/2022 09:12:22',type='brazilian',size='GG',price='€3',offer='',discount='',userId=3017,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B9EBA1D3-8CED-BC9F-E448-50393EFFFC4F',timestamp='2022年04月07日 04時46分03秒',type='イタリア',size='中',price='¥600',offer='',discount='',userId=1036,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='BF57D211-0EF2-6276-F582-E3EEBADA8D10',timestamp='01/04/2022 02:56:59',type='brazilian',size='G',price='€1.30',offer='gft',discount='',userId=3012,country=ITALY,city='Turin'}
+SaleTransaction{uuid='DF5A14EB-3196-104A-31F7-8D65C49404E9',timestamp='2022年04月26日 09時07分57秒',type='ブレンド',size='大',price='¥800',offer='gft',discount='30%',userId=1059,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='1F545526-C3DA-73B5-55A4-46E74ED92C69',timestamp='01/04/2022 04:04:11',type='blend',size='GG',price='€3',offer='',discount='',userId=3036,country=ITALY,city='Turin'}
+SaleTransaction{uuid='412C11F7-6A38-DFA8-4A82-C9D4667C6431',timestamp='2022年04月04日 10時15分34秒',type='コロンビア',size='超大',price='¥1000',offer='',discount='25%',userId=1005,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='BE4DA21C-A291-9FC9-3657-9E7E014DB6B6',timestamp='2022年04月02日 12時49分20秒',type='コロンビア',size='大',price='¥800',offer='h&l',discount='20%',userId=1095,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='DD726832-683F-C870-4443-1DFBAF596DA2',timestamp='2022年04月20日 09時15分02秒',type='ブレンド',size='超大',price='¥1000',offer='',discount='25%',userId=1072,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='933115CD-A7BF-B434-7F4F-B5507C9FB6CD',timestamp='15/04/2022 04:11:34',type='colombian',size='M',price='€1.30',offer='',discount='',userId=3057,country=ITALY,city='Turin'}
+SaleTransaction{uuid='D8C6D5DC-240C-2E78-C078-70E674CBFAE2',timestamp='2022年04月13日 09時42分51秒',type='コロンビア',size='中',price='¥600',offer='',discount='',userId=1073,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='8DD0F0DA-752E-38F0-F7CD-6D7F8268AC00',timestamp='14/04/2022 06:06:44',type='blend',size='P',price='€1.30',offer='',discount='15%',userId=3054,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B245A491-C471-A559-D119-9CE5B56C34B1',timestamp='2022年04月21日 10時11分45秒',type='イタリア',size='超大',price='¥1000',offer='ga',discount='',userId=1053,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='9D35D73F-B6BA-CCC8-2D06-7DD43EEC9CFE',timestamp='01/04/2022 09:15:16',type='colombian',size='P',price='€1.30',offer='',discount='',userId=3072,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A476ECE2-F68A-836B-747A-F6E3928FAEDC',timestamp='2022年04月21日 07時02分21秒',type='イタリア',size='大',price='¥800',offer='',discount='',userId=1023,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='28A870FB-7407-B894-8238-69CFB2B5696F',timestamp='26/04/2022 07:25:14',type='blend',size='P',price='€1.30',offer='',discount='20%',userId=3010,country=ITALY,city='Turin'}
+SaleTransaction{uuid='FA4BC33F-36D5-EB3B-BCFF-0A348A78C63F',timestamp='2022年04月20日 11時00分33秒',type='イタリア',size='超大',price='¥1000',offer='',discount='',userId=1045,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='57AF2BDD-C9C6-6BAB-2630-14B71CA61671',timestamp='19/04/2022 04:45:46',type='espresso',size='GG',price='€3',offer='',discount='',userId=3060,country=ITALY,city='Turin'}
+SaleTransaction{uuid='FBBB0C25-0147-ABB5-6FF7-905B3B0041BF',timestamp='2022年04月01日 05時39分54秒',type='ブラジル',size='大',price='¥800',offer='',discount='',userId=1020,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='A89E88FB-024F-6751-79AD-038032558266',timestamp='2022年04月12日 12時09分57秒',type='ブラジル',size='小',price='¥500',offer='',discount='30%',userId=1075,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='AF72D12E-CD5F-2BDF-B3F5-FD44EC812C26',timestamp='2022年04月27日 01時12分20秒',type='ブレンド',size='超大',price='¥1000',offer='',discount='',userId=1092,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='9ACAEC5B-2846-D874-CEBE-CB8C868791A0',timestamp='10/04/2022 06:21:53',type='blend',size='P',price='€1.30',offer='',discount='',userId=3018,country=ITALY,city='Turin'}
+SaleTransaction{uuid='28478385-0FA9-143C-0729-52F684DF20EC',timestamp='2022年04月14日 03時48分36秒',type='ブラジル',size='大',price='¥800',offer='',discount='',userId=1079,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='2E31F0AD-2950-5075-5BC0-E163FF2D2822',timestamp='29/04/2022 03:50:25',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3038,country=ITALY,city='Turin'}
+SaleTransaction{uuid='5AADBB18-8305-D149-A2CC-CBB376CEF332',timestamp='2022年04月28日 06時04分10秒',type='イタリア',size='中',price='¥600',offer='h&l',discount='',userId=1003,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='F748BDB6-8057-5C66-0BE4-F0563907E111',timestamp='29/04/2022 06:46:45',type='espresso',size='G',price='€1.30',offer='h&l',discount='',userId=3090,country=ITALY,city='Turin'}
+SaleTransaction{uuid='312712DC-ADD3-AE7F-45DE-746A9A4F3752',timestamp='01/04/2022 01:49:15',type='brazilian',size='G',price='€1.30',offer='',discount='',userId=3071,country=ITALY,city='Turin'}
+SaleTransaction{uuid='6FE9B98E-A079-C98E-7E19-BD1DF82F62B1',timestamp='2022年04月21日 06時22分34秒',type='ブレンド',size='中',price='¥600',offer='',discount='',userId=1012,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='EB7B5905-45EB-7E62-751C-70E596A513CE',timestamp='12/04/2022 10:19:48',type='brazilian',size='M',price='€1.30',offer='ga',discount='',userId=3037,country=ITALY,city='Turin'}
+SaleTransaction{uuid='3FA13D01-B6E3-3D30-64E7-3272396623D7',timestamp='2022年04月16日 06時22分21秒',type='イタリア',size='超大',price='¥1000',offer='',discount='',userId=1029,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E87DAEC7-70D7-007D-5045-63B957DD445F',timestamp='2022年04月10日 12時39分30秒',type='ブレンド',size='超大',price='¥1000',offer='',discount='',userId=1042,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='296EDB0F-965D-72D6-E56D-9FFA131A55DD',timestamp='24/04/2022 04:41:04',type='brazilian',size='P',price='€1.30',offer='sg',discount='30%',userId=3012,country=ITALY,city='Turin'}
+SaleTransaction{uuid='4AD75C8A-DE1D-AF5E-3E6D-5F398A7BBD68',timestamp='2022年04月23日 11時13分36秒',type='イタリア',size='中',price='¥600',offer='',discount='',userId=1013,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='AACEC469-FACF-FE05-E64D-68AB1192E697',timestamp='30/04/2022 02:04:38',type='colombian',size='M',price='€1.30',offer='gft',discount='',userId=3037,country=ITALY,city='Turin'}
+SaleTransaction{uuid='F935F80E-CCD5-0600-539B-D05EE4E619F0',timestamp='2022年04月07日 03時58分43秒',type='ブラジル',size='大',price='¥800',offer='sg',discount='',userId=1090,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='7D30065D-6318-4809-5260-A6C90AB574DD',timestamp='10/04/2022 04:26:03',type='colombian',size='GG',price='€3',offer='',discount='',userId=3096,country=ITALY,city='Turin'}
+SaleTransaction{uuid='7B2146A9-AFFB-752B-573D-C16033526D6E',timestamp='2022年04月17日 03時30分16秒',type='コロンビア',size='小',price='¥500',offer='',discount='30%',userId=1076,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='7D53F3C8-F56C-D69D-C261-C50CB7A8D513',timestamp='13/04/2022 10:56:50',type='brazilian',size='M',price='€1.30',offer='',discount='',userId=3067,country=ITALY,city='Turin'}
+SaleTransaction{uuid='D8045C16-4876-9865-97A0-D1BE1D609AF5',timestamp='2022年04月05日 07時21分36秒',type='コロンビア',size='小',price='¥500',offer='',discount='',userId=1028,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='AE0560B8-9B30-41C1-B550-92EEC045BA37',timestamp='17/04/2022 10:22:46',type='brazilian',size='GG',price='€3',offer='',discount='',userId=3100,country=ITALY,city='Turin'}
+SaleTransaction{uuid='3B626D7C-01D6-4153-BA4B-CFF7C9DDCD7A',timestamp='2022年04月25日 12時04分29秒',type='ブレンド',size='小',price='¥500',offer='',discount='',userId=1025,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='697A4A0D-CEB1-4D07-44C1-1157F5822147',timestamp='27/04/2022 04:05:06',type='colombian',size='G',price='€1.30',offer='',discount='20%',userId=3047,country=ITALY,city='Turin'}
+SaleTransaction{uuid='997613D3-04CF-DA42-26E2-7346F4F4B048',timestamp='2022年04月26日 04時51分10秒',type='コロンビア',size='中',price='¥600',offer='',discount='',userId=1063,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='FF3FF8E3-90AE-B2BC-AA73-3FAB8410CFEA',timestamp='20/04/2022 04:52:11',type='brazilian',size='M',price='€1.30',offer='',discount='20%',userId=3046,country=ITALY,city='Turin'}
+SaleTransaction{uuid='09C5B1F3-A7CC-B4BF-85B1-BA0309ABAA30',timestamp='20/04/2022 06:33:42',type='blend',size='M',price='€1.30',offer='',discount='',userId=3072,country=ITALY,city='Turin'}
+SaleTransaction{uuid='243386D9-BC9E-830D-6D62-3BF9D47E8D35',timestamp='30/04/2022 12:34:29',type='brazilian',size='M',price='€1.30',offer='',discount='',userId=3032,country=ITALY,city='Turin'}
+SaleTransaction{uuid='F7B57F65-095B-6354-EFF2-8E3B71563446',timestamp='13/04/2022 05:42:35',type='espresso',size='P',price='€1.30',offer='',discount='',userId=3094,country=ITALY,city='Turin'}
+SaleTransaction{uuid='5C662BFB-5042-3FD2-D7FF-1AAF58C9AFA9',timestamp='05/04/2022 04:51:01',type='espresso',size='M',price='€1.30',offer='',discount='30%',userId=3061,country=ITALY,city='Turin'}
+SaleTransaction{uuid='F110C57D-7D13-0A44-BF70-D05E92FCC2DB',timestamp='10/04/2022 01:25:12',type='blend',size='M',price='€1.30',offer='',discount='20%',userId=3006,country=ITALY,city='Turin'}
+SaleTransaction{uuid='473A60A3-4D02-B57E-0CA5-5C0FE4A83BC4',timestamp='26/04/2022 05:09:39',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3092,country=ITALY,city='Turin'}
+SaleTransaction{uuid='7E58D92B-7D54-D836-A52F-039FA42DFD32',timestamp='2022年04月01日 03時06分10秒',type='イタリア',size='超大',price='¥1000',offer='',discount='',userId=1018,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='41BEE45D-95CE-5530-3F16-C85C759AC380',timestamp='2022年04月28日 03時37分40秒',type='ブラジル',size='超大',price='¥1000',offer='gft',discount='',userId=1020,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='90448F35-4959-6220-61F5-E901EBE57858',timestamp='16/04/2022 02:40:06',type='blend',size='G',price='€1.30',offer='',discount='25%',userId=3001,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B72F3DEB-4D35-2FCE-12C5-A5F25CE9E8AF',timestamp='03/04/2022 07:02:07',type='espresso',size='GG',price='€3',offer='',discount='',userId=3036,country=ITALY,city='Turin'}
+SaleTransaction{uuid='D8AA5F26-6C16-0CD7-A12E-AEDC8E211465',timestamp='2022年04月23日 07時41分01秒',type='コロンビア',size='大',price='¥800',offer='',discount='',userId=1042,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='625AED7F-55FB-AFFD-0B8F-C4BE2F3DCB94',timestamp='22/04/2022 03:09:07',type='blend',size='M',price='€1.30',offer='ga',discount='',userId=3007,country=ITALY,city='Turin'}
+SaleTransaction{uuid='4FFBED4F-5B80-16AB-E257-5CA9D8AEC547',timestamp='26/04/2022 05:41:23',type='brazilian',size='GG',price='€3',offer='',discount='',userId=3034,country=ITALY,city='Turin'}
+SaleTransaction{uuid='16A9837A-9F16-01D0-2879-63B1A0D194BA',timestamp='2022年04月18日 12時00分43秒',type='ブラジル',size='中',price='¥600',offer='sg',discount='',userId=1003,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E7900459-9E84-115B-2271-1ABB61BFF5FD',timestamp='2022年04月11日 12時12分20秒',type='ブレンド',size='中',price='¥600',offer='',discount='30%',userId=1024,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='1E67571D-CB7E-9F4C-DC4D-E728A652FF02',timestamp='12/04/2022 12:33:55',type='espresso',size='GG',price='€3',offer='',discount='15%',userId=3042,country=ITALY,city='Turin'}
+SaleTransaction{uuid='39A05CDE-4231-3941-4309-BB8A0495A755',timestamp='28/04/2022 03:23:12',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3002,country=ITALY,city='Turin'}
+SaleTransaction{uuid='CA7907EA-9A23-C298-0106-173F91B8A9A9',timestamp='09/04/2022 04:54:07',type='espresso',size='GG',price='€3',offer='',discount='',userId=3097,country=ITALY,city='Turin'}
+SaleTransaction{uuid='D5F3C44D-6F66-6C6F-4E7F-340F2AB8E84E',timestamp='2022年04月10日 04時51分46秒',type='イタリア',size='小',price='¥500',offer='gft',discount='25%',userId=1079,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='4A4CF915-3FB7-457F-E9F8-8C37739AC8BA',timestamp='11/04/2022 02:33:29',type='colombian',size='P',price='€1.30',offer='',discount='15%',userId=3036,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A9302752-650D-2765-57F8-624C59A61035',timestamp='2022年04月22日 11時15分20秒',type='ブレンド',size='大',price='¥800',offer='sg',discount='25%',userId=1021,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='1EB20001-61EA-B60E-0216-1CD5BABBDC53',timestamp='02/04/2022 09:22:41',type='blend',size='GG',price='€3',offer='',discount='25%',userId=3063,country=ITALY,city='Turin'}
+SaleTransaction{uuid='123A74A5-446C-C4F7-DAE9-A39C771BF3D0',timestamp='2022年04月30日 12時28分49秒',type='イタリア',size='超大',price='¥1000',offer='ga',discount='',userId=1077,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='04C8C7E1-A641-EB0B-8B89-DD8DDE8D7BAB',timestamp='2022年04月19日 04時29分22秒',type='イタリア',size='小',price='¥500',offer='',discount='20%',userId=1022,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='4495B016-9B9F-E611-1AB8-FB17DEDF3852',timestamp='06/04/2022 12:24:50',type='espresso',size='P',price='€1.30',offer='ga',discount='',userId=3046,country=ITALY,city='Turin'}
+SaleTransaction{uuid='375A0AB5-B228-3666-73EF-4DD3319DEFF5',timestamp='2022年04月11日 03時22分13秒',type='コロンビア',size='小',price='¥500',offer='',discount='',userId=1046,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='5E020639-A3F3-BF31-4458-85693BD2EEFE',timestamp='07/04/2022 01:12:23',type='brazilian',size='GG',price='€3',offer='ga',discount='',userId=3061,country=ITALY,city='Turin'}
+SaleTransaction{uuid='92504472-3978-497F-E143-A163A1E63D46',timestamp='28/04/2022 05:17:40',type='brazilian',size='G',price='€1.30',offer='',discount='20%',userId=3052,country=ITALY,city='Turin'}
+SaleTransaction{uuid='F0FBD24E-1E1E-68D7-2BC2-D6A247EAED44',timestamp='2022年04月02日 04時58分38秒',type='コロンビア',size='大',price='¥800',offer='',discount='15%',userId=1070,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='AC69B2AF-D6D5-8AA4-9F40-8FFC67784BFF',timestamp='2022年04月29日 06時36分10秒',type='ブラジル',size='大',price='¥800',offer='gft',discount='',userId=1039,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='981AB9CA-4B7C-9B1F-68D1-55D328AC8CDD',timestamp='30/04/2022 11:39:05',type='colombian',size='GG',price='€3',offer='',discount='30%',userId=3074,country=ITALY,city='Turin'}
+SaleTransaction{uuid='E893DCE2-6214-E369-F6E3-F83E16FBC4E5',timestamp='2022年04月11日 03時26分37秒',type='コロンビア',size='超大',price='¥1000',offer='h&l',discount='',userId=1095,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='0AAE5BA2-673C-C98C-BAE1-EA122FE7A6DE',timestamp='2022年04月09日 12時49分23秒',type='イタリア',size='大',price='¥800',offer='h&l',discount='',userId=1069,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='774DA1E0-F24B-526A-9C07-7D5266561CCC',timestamp='23/04/2022 01:33:12',type='brazilian',size='GG',price='€3',offer='',discount='',userId=3004,country=ITALY,city='Turin'}
+SaleTransaction{uuid='9F3BCB95-4567-9AE6-6802-588A070D5A0E',timestamp='2022年04月23日 07時33分20秒',type='ブラジル',size='超大',price='¥1000',offer='gft',discount='',userId=1047,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='57E99C8C-FDAF-C726-1768-1CE50A3205C9',timestamp='2022年04月29日 03時32分01秒',type='コロンビア',size='大',price='¥800',offer='',discount='',userId=1078,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='7FCE21F0-00DF-50EB-A92A-7D0E04C19E24',timestamp='06/04/2022 11:10:04',type='brazilian',size='P',price='€1.30',offer='ga',discount='20%',userId=3055,country=ITALY,city='Turin'}
+SaleTransaction{uuid='9003892B-E70E-7D11-AE78-67725F0ACB09',timestamp='2022年04月30日 09時26分38秒',type='イタリア',size='中',price='¥600',offer='',discount='',userId=1054,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='9326252A-2E53-6C2C-6634-106AB63AAA8E',timestamp='2022年04月25日 06時02分15秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1011,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E8BF1A8C-53A1-69D6-7AF5-49B4B2184382',timestamp='2022年04月30日 09時13分56秒',type='ブレンド',size='中',price='¥600',offer='',discount='',userId=1053,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='47F68604-61A1-3742-2371-D0E48A3C82FD',timestamp='2022年04月02日 10時14分02秒',type='イタリア',size='中',price='¥600',offer='h&l',discount='',userId=1042,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='4F1F5854-1701-7906-3C95-B4F95DCC529B',timestamp='30/04/2022 06:31:21',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3021,country=ITALY,city='Turin'}
+SaleTransaction{uuid='091292A1-9163-BD88-1119-69AD07591643',timestamp='29/04/2022 12:48:42',type='colombian',size='GG',price='€3',offer='h&l',discount='',userId=3064,country=ITALY,city='Turin'}
+SaleTransaction{uuid='82D40B7F-889C-53E5-DB0F-C1C9E9ABD945',timestamp='04/04/2022 07:36:56',type='brazilian',size='GG',price='€3',offer='',discount='20%',userId=3100,country=ITALY,city='Turin'}
+SaleTransaction{uuid='86DC2D89-2A00-5F5D-32DA-528259FF664A',timestamp='2022年04月12日 03時11分27秒',type='コロンビア',size='大',price='¥800',offer='',discount='25%',userId=1000,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='4784C8F4-0189-EBCB-E4C3-E5CA1D8745CF',timestamp='30/04/2022 04:14:48',type='blend',size='M',price='€1.30',offer='',discount='',userId=3098,country=ITALY,city='Turin'}
+SaleTransaction{uuid='BAEF7AEC-B90B-75C0-1D48-73234AAA9C3C',timestamp='2022年04月19日 04時50分11秒',type='イタリア',size='中',price='¥600',offer='',discount='',userId=1044,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B8870C83-70F7-0613-17BE-2839FC8B5AB3',timestamp='02/04/2022 03:29:04',type='espresso',size='G',price='€1.30',offer='',discount='',userId=3057,country=ITALY,city='Turin'}
+SaleTransaction{uuid='142ED577-DDD7-DBFC-3632-4E65D5834448',timestamp='2022年04月01日 04時30分36秒',type='ブレンド',size='中',price='¥600',offer='',discount='20%',userId=1063,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='C0697CC7-9177-784A-7714-448B57C2C6A2',timestamp='2022年04月12日 06時13分03秒',type='ブレンド',size='小',price='¥500',offer='h&l',discount='',userId=1013,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='641355C3-4EDF-C209-76B1-E313856C8D19',timestamp='16/04/2022 05:11:38',type='brazilian',size='M',price='€1.30',offer='',discount='',userId=3079,country=ITALY,city='Turin'}
+SaleTransaction{uuid='5227F0DE-8436-7EC6-1935-6C8EBF918595',timestamp='2022年04月04日 11時44分41秒',type='ブラジル',size='大',price='¥800',offer='',discount='25%',userId=1004,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='FB952D50-CFCB-9FED-B6A7-1851E3EFF548',timestamp='15/04/2022 02:30:49',type='espresso',size='GG',price='€3',offer='',discount='',userId=3021,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A9E16D7F-B337-ACF4-9E7D-4B9224F63364',timestamp='09/04/2022 09:23:22',type='brazilian',size='GG',price='€3',offer='',discount='',userId=3019,country=ITALY,city='Turin'}
+SaleTransaction{uuid='2CA31475-1903-9B18-744A-B15B19AF74B6',timestamp='2022年04月04日 02時30分42秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='15%',userId=1041,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E879B402-8703-0E5D-9132-E47522BEAF21',timestamp='30/04/2022 12:49:15',type='colombian',size='M',price='€1.30',offer='',discount='',userId=3024,country=ITALY,city='Turin'}
+SaleTransaction{uuid='38AAC9E4-6B5E-833B-E5C6-5B9544E18C2F',timestamp='2022年04月24日 09時41分53秒',type='ブラジル',size='中',price='¥600',offer='',discount='',userId=1051,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B5711471-CDCE-99C0-E0AE-B0253484C412',timestamp='14/04/2022 01:51:28',type='colombian',size='M',price='€1.30',offer='',discount='20%',userId=3067,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B27129A7-63F2-0C28-A983-F4C2E3192BAD',timestamp='2022年04月23日 07時53分53秒',type='イタリア',size='小',price='¥500',offer='ga',discount='',userId=1090,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='91C4B1A7-E588-DD66-D7CE-463977CE59A8',timestamp='14/04/2022 10:14:41',type='espresso',size='M',price='€1.30',offer='',discount='',userId=3027,country=ITALY,city='Turin'}
+SaleTransaction{uuid='00B27744-4B13-00D6-98A3-6D3E17160215',timestamp='2022年04月29日 04時51分35秒',type='コロンビア',size='大',price='¥800',offer='',discount='15%',userId=1059,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='88B965C3-DCD3-ED04-263F-D6572CF9981D',timestamp='13/04/2022 07:33:15',type='blend',size='G',price='€1.30',offer='',discount='',userId=3030,country=ITALY,city='Turin'}
+SaleTransaction{uuid='5A52A520-3AE2-D0BC-D0FA-2AA45337EDCA',timestamp='2022年04月23日 06時44分27秒',type='ブラジル',size='中',price='¥600',offer='',discount='',userId=1099,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='401BE6AA-940E-6FF3-8F0D-4A87117D8E71',timestamp='30/04/2022 12:53:11',type='espresso',size='G',price='€1.30',offer='',discount='',userId=3002,country=ITALY,city='Turin'}
+SaleTransaction{uuid='E20E7449-5D3B-193E-AE3B-DFFEBD611297',timestamp='07/04/2022 03:29:56',type='colombian',size='G',price='€1.30',offer='',discount='30%',userId=3073,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B53EE849-CD4F-2666-352D-466F2142048A',timestamp='2022年04月29日 12時56分54秒',type='イタリア',size='小',price='¥500',offer='',discount='',userId=1066,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='C2DB542A-A673-4907-2D62-8A50F6966E32',timestamp='28/04/2022 12:47:24',type='espresso',size='G',price='€1.30',offer='',discount='',userId=3097,country=ITALY,city='Turin'}
+SaleTransaction{uuid='2618398D-46B1-A79C-D9ED-4E2C5D00A8D0',timestamp='16/04/2022 06:01:50',type='blend',size='M',price='€1.30',offer='gft',discount='20%',userId=3048,country=ITALY,city='Turin'}
+SaleTransaction{uuid='284FCE45-4254-6FAF-C9FF-647595722A1E',timestamp='2022年04月03日 02時50分34秒',type='ブレンド',size='超大',price='¥1000',offer='',discount='',userId=1076,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='786B2918-8717-F67C-135E-F069428FAC1E',timestamp='12/04/2022 04:43:52',type='blend',size='GG',price='€3',offer='',discount='',userId=3079,country=ITALY,city='Turin'}
+SaleTransaction{uuid='B0780AE8-C637-6D48-3D50-8E0C63EFCF2C',timestamp='2022年04月16日 09時19分01秒',type='イタリア',size='超大',price='¥1000',offer='sg',discount='30%',userId=1057,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='D18D00E6-8049-7C5C-F7C3-A190F21BF996',timestamp='2022年04月07日 07時07分41秒',type='イタリア',size='中',price='¥600',offer='',discount='25%',userId=1046,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='3C4D9EED-0584-8489-FF8C-6CEF7846D473',timestamp='06/04/2022 05:46:25',type='blend',size='G',price='€1.30',offer='',discount='30%',userId=3030,country=ITALY,city='Turin'}
+SaleTransaction{uuid='AA362DB3-9043-AD32-33D4-D9D178EFFCFE',timestamp='2022年04月26日 01時45分33秒',type='コロンビア',size='中',price='¥600',offer='',discount='25%',userId=1099,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='5D21C960-7C24-7977-D536-015F1833E5F6',timestamp='2022年04月04日 05時58分05秒',type='ブラジル',size='中',price='¥600',offer='gft',discount='',userId=1023,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='B3B10EEF-C454-40CA-ADE2-BCFEC946D8E8',timestamp='2022年04月04日 05時34分28秒',type='ブラジル',size='中',price='¥600',offer='',discount='',userId=1059,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='0C906491-C5B1-EC3D-D4B8-B65563BAB0D7',timestamp='24/04/2022 02:22:02',type='colombian',size='P',price='€1.30',offer='sg',discount='30%',userId=3052,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A98F03DD-6204-920C-6963-50DD69E17EDF',timestamp='30/04/2022 02:47:25',type='espresso',size='G',price='€1.30',offer='',discount='',userId=3072,country=ITALY,city='Turin'}
+SaleTransaction{uuid='E9E82019-13FB-81FB-8DA9-59431E947EBD',timestamp='2022年04月23日 03時55分13秒',type='コロンビア',size='中',price='¥600',offer='h&l',discount='25%',userId=1095,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='E5A18371-FA31-18C7-D6B4-27CFE12DD23F',timestamp='23/04/2022 07:52:20',type='espresso',size='GG',price='€3',offer='',discount='',userId=3016,country=ITALY,city='Turin'}
+SaleTransaction{uuid='55F2685D-9697-16DA-4380-F7890E062F58',timestamp='15/04/2022 04:26:05',type='colombian',size='GG',price='€3',offer='',discount='',userId=3023,country=ITALY,city='Turin'}
+SaleTransaction{uuid='307CA489-FF3B-C66C-5E6B-8385A5BC23BB',timestamp='07/04/2022 01:33:46',type='blend',size='P',price='€1.30',offer='gft',discount='25%',userId=3092,country=ITALY,city='Turin'}
+SaleTransaction{uuid='658A503C-AD2B-B3C7-5DA3-7834FF3D9E68',timestamp='2022年04月17日 06時34分43秒',type='イタリア',size='中',price='¥600',offer='h&l',discount='',userId=1021,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='657FE5EF-5EAD-FF2D-D3BE-51945C26A89B',timestamp='2022年04月25日 03時03分48秒',type='ブレンド',size='中',price='¥600',offer='',discount='',userId=1000,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='263A4EC4-AAE5-D560-CFDC-5F4FFA6A68C8',timestamp='2022年04月23日 09時43分58秒',type='ブレンド',size='中',price='¥600',offer='',discount='',userId=1041,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='04D3FE67-7885-D909-3E5E-028AAD1EAF65',timestamp='2022年04月01日 10時54分06秒',type='コロンビア',size='大',price='¥800',offer='h&l',discount='25%',userId=1003,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='38426FEB-57B3-D885-FCCF-C1989E339F13',timestamp='2022年04月07日 12時39分27秒',type='ブラジル',size='小',price='¥500',offer='',discount='',userId=1027,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='FC947CF8-E305-F463-50A4-031BE4A78DAF',timestamp='2022年04月18日 01時49分55秒',type='ブラジル',size='大',price='¥800',offer='',discount='25%',userId=1027,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='ED8FA915-CFD0-75A1-632A-1FA3304871CA',timestamp='2022年04月07日 10時13分32秒',type='ブレンド',size='小',price='¥500',offer='',discount='15%',userId=1096,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='D2AD5991-054B-1C7B-2924-11278266A6AA',timestamp='27/04/2022 04:35:26',type='brazilian',size='G',price='€1.30',offer='',discount='',userId=3079,country=ITALY,city='Turin'}
+SaleTransaction{uuid='CA46E313-D28C-8978-70D8-B0395797396B',timestamp='2022年04月30日 01時49分12秒',type='ブレンド',size='超大',price='¥1000',offer='sg',discount='',userId=1020,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='DCA461F5-03D2-3D7F-F287-4639FB90A56F',timestamp='14/04/2022 03:10:14',type='colombian',size='GG',price='€3',offer='',discount='',userId=3071,country=ITALY,city='Turin'}
+SaleTransaction{uuid='A886BBBF-A553-6B47-61DC-3E462449A5BE',timestamp='2022年04月03日 02時20分24秒',type='ブラジル',size='超大',price='¥1000',offer='h&l',discount='',userId=1004,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='528EAF66-D3AE-42AE-64E7-6F2AC8452B47',timestamp='10/04/2022 01:17:07',type='colombian',size='M',price='€1.30',offer='',discount='15%',userId=3090,country=ITALY,city='Turin'}
+SaleTransaction{uuid='0B500F35-7465-DB70-5176-2501643B2643',timestamp='23/04/2022 11:02:15',type='espresso',size='M',price='€1.30',offer='',discount='',userId=3026,country=ITALY,city='Turin'}
+SaleTransaction{uuid='170A9FD5-88FF-6DEC-A49F-3EF1C3748AC2',timestamp='13/04/2022 04:07:12',type='brazilian',size='M',price='€1.30',offer='h&l',discount='',userId=3058,country=ITALY,city='Turin'}
+SaleTransaction{uuid='068CCAD9-1B59-06AF-627D-D1812AE4B522',timestamp='05/04/2022 01:47:37',type='espresso',size='G',price='€1.30',offer='',discount='',userId=3017,country=ITALY,city='Turin'}
+SaleTransaction{uuid='C9091C39-DF74-4385-D12C-7055858A2E81',timestamp='2022年04月25日 01時42分44秒',type='コロンビア',size='大',price='¥800',offer='gft',discount='',userId=1046,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='0B441F56-057E-00F9-9E34-78E3C9FF6FA8',timestamp='2022年04月20日 01時46分34秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1027,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='46C7FBC0-375D-D74D-962B-04CDBF0FC872',timestamp='2022年04月07日 04時48分23秒',type='ブラジル',size='小',price='¥500',offer='',discount='',userId=1069,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='DD7B462D-C21D-A591-7E5B-2D7EC8E06097',timestamp='30/04/2022 01:00:52',type='colombian',size='GG',price='€3',offer='',discount='',userId=3060,country=ITALY,city='Turin'}
+SaleTransaction{uuid='66EF0AAB-6F0B-5411-B77D-856FE4952B91',timestamp='13/04/2022 05:57:05',type='brazilian',size='P',price='€1.30',offer='',discount='',userId=3045,country=ITALY,city='Turin'}
+SaleTransaction{uuid='2BFDF7C3-467E-E7C1-B977-33C82F1EFFE5',timestamp='2022年04月15日 07時18分15秒',type='コロンビア',size='大',price='¥800',offer='gft',discount='25%',userId=1037,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='F2816BB0-C1E5-88ED-157F-816F81158B01',timestamp='2022年04月20日 11時55分21秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='30%',userId=1092,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='180EA4B1-2289-4D97-140D-6C589B5C4927',timestamp='2022年04月27日 04時19分57秒',type='イタリア',size='超大',price='¥1000',offer='',discount='',userId=1040,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='F27797A2-CE96-150E-11A4-A85BC4EF93F3',timestamp='2022年04月30日 02時14分11秒',type='ブラジル',size='超大',price='¥1000',offer='',discount='',userId=1044,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='43FC607A-299A-4BEA-C21A-2051C7FD07FD',timestamp='2022年04月21日 05時06分03秒',type='イタリア',size='大',price='¥800',offer='ga',discount='15%',userId=1073,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='738B9557-B7EA-B71E-72B8-A323AD26BDC0',timestamp='2022年04月18日 05時53分13秒',type='イタリア',size='小',price='¥500',offer='',discount='',userId=1072,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='7952CEDD-BB49-314A-B91E-55B5E9F6C406',timestamp='2022年04月22日 05時49分59秒',type='イタリア',size='超大',price='¥1000',offer='',discount='',userId=1040,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='C68DA532-894E-2436-C9AF-51CEAE951197',timestamp='2022年04月09日 05時54分01秒',type='ブラジル',size='小',price='¥500',offer='',discount='',userId=1051,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='A54B3F03-3B6A-68A3-9B57-AF8E50EA5BFF',timestamp='2022年04月22日 03時53分46秒',type='ブラジル',size='中',price='¥600',offer='',discount='',userId=1045,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='BEF23102-B38A-65BF-F01D-4485DD290D67',timestamp='2022年04月29日 09時42分47秒',type='イタリア',size='大',price='¥800',offer='',discount='',userId=1006,country=JAPAN,city='Tokyo'}
+SaleTransaction{uuid='10BF34BB-56C3-5ED4-58CA-87F4B6380F46',timestamp='04/05/2022  02:17:29',type='colombian',size='XL',price='CAD$5.50',offer='30%',discount='h&l',userId=3078,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='8F8180BE-A29C-3EE9-F802-D4D48E1E30DA',timestamp='04/19/2022 04:56:41',type='brazilian',size='M',price='CAD$3.50',offer='15%',discount='',userId=3084,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='EB452602-6AE6-5CFE-68FE-37E7F81BE8D4',timestamp='04/04/2022  12:33:29',type='brazilian',size='XL',price='CAD$5.50',offer='',discount='',userId=3045,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='9DD8A810-E7DC-32D9-3364-AC730F506CBC',timestamp='04/04/2022  09:14:44',type='blend',size='M',price='CAD$3.50',offer='30%',discount='',userId=3030,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='5500C289-6319-C3F4-15F9-267BF0F15353',timestamp='04/10/2022  02:14:24',type='italian',size='L',price='CAD$4.50',offer='',discount='',userId=3063,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='8F98D22E-46A9-F3D3-50F0-46AC376ACEDE',timestamp='04/22/2022 05:04:23',type='colombian',size='XL',price='CAD$5.50',offer='',discount='',userId=3086,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F5A73BE6-9A6A-290D-EA43-E209F22F71B0',timestamp='04/30/2022 02:18:25',type='italian',size='L',price='CAD$4.50',offer='',discount='',userId=3054,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='BF3A5EF1-ACCB-C99A-0D2F-62350C21C08B',timestamp='04/22/2022 11:37:43',type='blend',size='XL',price='CAD$5.50',offer='',discount='',userId=3061,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='727A297C-45E5-D923-FA62-2D438A34DAAB',timestamp='04/30/2022 09:28:51',type='colombian',size='M',price='CAD$3.50',offer='',discount='',userId=3080,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='44DBB3C1-6022-6255-7520-A95B16354F38',timestamp='04/25/2022 09:21:47',type='italian',size='S',price='CAD$2.50',offer='',discount='',userId=3087,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='46AD2123-9537-DDA9-89CC-6C0B4D089CCB',timestamp='04/30/2022 06:03:47',type='blend',size='M',price='CAD$3.50',offer='20%',discount='h&l',userId=3066,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='A001E10C-E9EF-218E-A83F-81FB9CC0213E',timestamp='04/24/2022 10:02:55',type='italian',size='M',price='CAD$3.50',offer='',discount='gft',userId=3000,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='541B570E-5CFA-B911-1C42-3BEDA4417264',timestamp='04/13/2022 07:09:29',type='brazilian',size='M',price='CAD$3.50',offer='',discount='',userId=3095,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='DE6595F6-A56F-7DC2-5F00-3F40F3FC1627',timestamp='04/17/2022 02:58:31',type='brazilian',size='XL',price='CAD$5.50',offer='20%',discount='',userId=3047,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='AB5B4E7F-C261-2580-7F2D-CE74188DA0A2',timestamp='04/26/2022 05:53:51',type='italian',size='M',price='CAD$3.50',offer='',discount='gft',userId=3081,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='7130883B-CA3A-2E61-F01A-036BEAB264C0',timestamp='04/23/2022 04:45:26',type='brazilian',size='XL',price='CAD$5.50',offer='',discount='',userId=3009,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='52B47C82-571C-2639-B031-731B224DD968',timestamp='04/29/2022 07:45:53',type='blend',size='M',price='CAD$3.50',offer='',discount='',userId=3099,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='D746F43C-D6EE-0C05-CEBF-FF346F720338',timestamp='04/13/2022 06:07:54',type='colombian',size='S',price='CAD$2.50',offer='25%',discount='',userId=3054,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='67E48DCD-C169-E803-B3B8-E19DA0221019',timestamp='04/03/2022  01:04:54',type='brazilian',size='M',price='CAD$3.50',offer='',discount='sg',userId=3035,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='686D6734-9486-4FA2-D06D-3CF86CCD77C0',timestamp='04/23/2022 05:07:55',type='brazilian',size='L',price='CAD$4.50',offer='',discount='',userId=3047,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='A9F8CE9F-495C-13BE-C58B-C4A8618F6EE0',timestamp='04/16/2022 02:29:56',type='colombian',size='S',price='CAD$2.50',offer='',discount='',userId=3082,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='FAD9A536-3A58-F9FF-8E41-C292FEF78192',timestamp='04/19/2022 03:09:19',type='colombian',size='M',price='CAD$3.50',offer='20%',discount='',userId=3093,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='7994A56F-DC7C-A726-A9A4-8BAE0488566D',timestamp='04/25/2022 12:17:48',type='colombian',size='XL',price='CAD$5.50',offer='',discount='gft',userId=3034,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='58AF6EE8-240C-581C-4487-BFCDB8E176CD',timestamp='04/06/2022  02:05:20',type='italian',size='L',price='CAD$4.50',offer='',discount='',userId=3017,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='81D20229-1405-89D5-2D8B-B512DD5D6B69',timestamp='04/23/2022 03:44:22',type='brazilian',size='M',price='CAD$3.50',offer='',discount='h&l',userId=3050,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='37230C6A-0B85-17DB-4505-20A99852AEB0',timestamp='04/28/2022 06:00:17',type='blend',size='XL',price='CAD$5.50',offer='',discount='sg',userId=3050,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='10592E33-C52C-32A9-6B4B-289B6E084CE8',timestamp='04/11/2022  04:53:57',type='italian',size='L',price='CAD$4.50',offer='',discount='',userId=3079,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B2A25197-E580-23F8-1AE4-E70AC3EDE9EE',timestamp='04/27/2022 02:49:09',type='italian',size='S',price='CAD$2.50',offer='',discount='',userId=3023,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B2A380D1-BA2C-D0E5-970B-0C7C2C3204BC',timestamp='04/25/2022 09:51:49',type='colombian',size='S',price='CAD$2.50',offer='',discount='',userId=3007,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='FB593632-EA70-11A3-8B41-69A5EE18A365',timestamp='04/24/2022 04:25:17',type='colombian',size='XL',price='CAD$5.50',offer='',discount='',userId=3096,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='03E62B94-68D3-2554-DBB5-9416132E0044',timestamp='04/06/2022  05:31:56',type='colombian',size='M',price='CAD$3.50',offer='15%',discount='',userId=3025,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='73EE1417-5714-9096-B3E6-AAA7C6BDE9E7',timestamp='04/13/2022 05:50:54',type='colombian',size='S',price='CAD$2.50',offer='',discount='gft',userId=3001,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='9CC2430C-585A-6B7E-7411-1DA006B072C6',timestamp='04/21/2022 05:30:39',type='italian',size='S',price='CAD$2.50',offer='',discount='',userId=3047,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='EC41BADE-D6F0-DB31-3C8D-5BFB1B0CF8BB',timestamp='04/19/2022 01:00:17',type='blend',size='XL',price='CAD$5.50',offer='',discount='gft',userId=3082,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='BECF15B6-DB70-53CD-E51E-8DE58845B48C',timestamp='04/30/2022 07:28:51',type='colombian',size='M',price='CAD$3.50',offer='',discount='ga',userId=3077,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='0A48BF71-2C1B-F53B-FA8B-D82FA26BCEFE',timestamp='04/15/2022 02:04:28',type='italian',size='L',price='CAD$4.50',offer='15%',discount='',userId=3032,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='790461FD-4244-8BD8-959A-90ED050F6621',timestamp='04/04/2022  09:29:15',type='italian',size='S',price='CAD$2.50',offer='',discount='ga',userId=3033,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='804B2FEA-B6FF-7D10-1496-436F087F8162',timestamp='04/17/2022 04:59:41',type='colombian',size='L',price='CAD$4.50',offer='',discount='',userId=3014,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B6B9607B-856D-F258-26B3-FF247DACFB0F',timestamp='04/21/2022 03:27:44',type='colombian',size='S',price='CAD$2.50',offer='',discount='sg',userId=3080,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='80A093B0-F2D7-8B6C-FEE2-9D5E68A5D32E',timestamp='04/13/2022 02:36:21',type='brazilian',size='L',price='CAD$4.50',offer='',discount='',userId=3092,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B985ACAF-333B-4F2D-ABE0-5262AD4F433B',timestamp='04/10/2022  05:40:14',type='blend',size='M',price='CAD$3.50',offer='',discount='gft',userId=3046,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='64193246-9872-5A57-BA77-C30ADE71F4CE',timestamp='04/10/2022  03:11:04',type='colombian',size='S',price='CAD$2.50',offer='30%',discount='',userId=3049,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='86000C26-8855-1C3A-E5A3-439E05522558',timestamp='04/13/2022 01:40:31',type='colombian',size='S',price='CAD$2.50',offer='15%',discount='ga',userId=3063,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B54C1E4E-469B-BE31-B819-F13C81144EEB',timestamp='04/05/2022  09:35:30',type='brazilian',size='L',price='CAD$4.50',offer='25%',discount='',userId=3099,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='352E1BF8-0E5C-5D14-A6AE-AAA07D176B1F',timestamp='04/19/2022 02:55:36',type='brazilian',size='S',price='CAD$2.50',offer='',discount='gft',userId=3052,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='E18AC159-DAAD-D8D1-9D5E-ECD451924205',timestamp='04/05/2022  04:53:32',type='blend',size='M',price='CAD$3.50',offer='30%',discount='',userId=3011,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B3129485-1114-D2C4-0C22-047E8DBF89EB',timestamp='04/01/2022  03:27:59',type='colombian',size='S',price='CAD$2.50',offer='20%',discount='',userId=3050,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='0B587222-C128-BC3A-26D9-4C4CAAC9A17B',timestamp='04/05/2022  03:39:41',type='italian',size='L',price='CAD$4.50',offer='',discount='',userId=3027,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='2722BDC3-BC38-7931-EEE2-64FED394BDE7',timestamp='04/06/2022  11:19:42',type='colombian',size='M',price='CAD$3.50',offer='',discount='',userId=3050,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='748F5B50-E11A-5CF6-4628-7D089ECB5C94',timestamp='04/02/2022  01:33:35',type='brazilian',size='L',price='CAD$4.50',offer='',discount='',userId=3054,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='A7100994-4212-353B-1988-DA07F1B65CE3',timestamp='04/27/2022 07:17:07',type='italian',size='L',price='CAD$4.50',offer='',discount='sg',userId=3012,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='D9D58BBC-666E-E8DE-143C-EEF5AA97B36E',timestamp='04/13/2022 06:15:04',type='brazilian',size='L',price='CAD$4.50',offer='20%',discount='',userId=3002,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='D517C1BD-3CAD-4EF2-FC70-D2ECD8426BF2',timestamp='04/04/2022  05:01:21',type='colombian',size='L',price='CAD$4.50',offer='30%',discount='',userId=3057,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='47309764-954B-C409-8ECD-6272395F7CBF',timestamp='04/11/2022  04:12:19',type='blend',size='L',price='CAD$4.50',offer='30%',discount='sg',userId=3085,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='E283C703-83E1-395A-41C7-C50BB244D7BB',timestamp='04/28/2022 01:11:11',type='italian',size='XL',price='CAD$5.50',offer='',discount='sg',userId=3079,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='CE414645-1166-28DF-B93C-514B4724E1BE',timestamp='04/23/2022 09:13:04',type='blend',size='XL',price='CAD$5.50',offer='',discount='',userId=3091,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='6A39828B-EBB8-3257-A7EA-2F6E1E275C85',timestamp='04/29/2022 04:38:36',type='colombian',size='XL',price='CAD$5.50',offer='',discount='',userId=3008,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='2C10BF42-59C1-8993-C190-55BBEB22061C',timestamp='04/30/2022 01:30:39',type='italian',size='XL',price='CAD$5.50',offer='',discount='',userId=3080,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='9CEF34D4-A085-6A8E-6336-B023A341B368',timestamp='04/19/2022 01:42:59',type='blend',size='L',price='CAD$4.50',offer='',discount='',userId=3095,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='C5E65A47-D6B5-E628-F248-0EB492661D44',timestamp='04/23/2022 02:32:39',type='brazilian',size='M',price='CAD$3.50',offer='30%',discount='',userId=3038,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='27BFCC0A-CFC9-A993-F651-EC68F7F1DEF7',timestamp='04/05/2022  11:59:05',type='blend',size='S',price='CAD$2.50',offer='',discount='gft',userId=3009,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='2DD4312E-E925-D383-91EF-08CC1D45C448',timestamp='04/24/2022 06:28:30',type='brazilian',size='XL',price='CAD$5.50',offer='25%',discount='',userId=3089,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='97FD0E4D-8A96-C8F5-AA2D-8367543016E4',timestamp='04/16/2022 04:49:45',type='blend',size='S',price='CAD$2.50',offer='',discount='ga',userId=3080,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='4A485B67-876C-60B4-C3E1-2773151552C0',timestamp='04/04/2022  04:39:19',type='brazilian',size='M',price='CAD$3.50',offer='',discount='',userId=3060,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='DBB37417-AA4E-CD50-F895-7AF2E09F675E',timestamp='04/13/2022 04:43:44',type='brazilian',size='L',price='CAD$4.50',offer='25%',discount='gft',userId=3096,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F55A7FCA-2C8A-D316-3D9C-7B0F072B477A',timestamp='04/06/2022  09:44:47',type='brazilian',size='M',price='CAD$3.50',offer='',discount='',userId=3073,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='7B5E155A-69E7-A9B7-0F00-22BE83F12EBD',timestamp='04/15/2022 05:28:38',type='colombian',size='S',price='CAD$2.50',offer='',discount='',userId=3074,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='FAEA270C-F37B-1285-AEAD-2A855C616FE0',timestamp='04/04/2022  09:37:02',type='colombian',size='XL',price='CAD$5.50',offer='',discount='',userId=3015,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='B0C6FF34-7BA9-7231-2EBD-574C6913FAB9',timestamp='04/05/2022  02:24:28',type='blend',size='L',price='CAD$4.50',offer='',discount='',userId=3029,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='983D4D86-73E1-CC35-F2DF-A9AAC3B0EF71',timestamp='04/04/2022  12:05:04',type='colombian',size='M',price='CAD$3.50',offer='',discount='',userId=3056,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='266C04E1-6AF7-52AF-4640-32EFA7AD4F1B',timestamp='04/24/2022 01:26:24',type='colombian',size='XL',price='CAD$5.50',offer='30%',discount='',userId=3027,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='FF87AC31-A8B1-382A-AEA1-F554DE317C48',timestamp='04/28/2022 04:43:06',type='brazilian',size='L',price='CAD$4.50',offer='15%',discount='',userId=3056,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='D96D418C-4117-F6D4-0AF0-188AE354E0DB',timestamp='04/17/2022 09:06:01',type='colombian',size='L',price='CAD$4.50',offer='',discount='h&l',userId=3084,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F2AD7059-E280-AF84-EC4B-EDEC42C446F6',timestamp='04/04/2022  03:00:53',type='blend',size='XL',price='CAD$5.50',offer='25%',discount='',userId=3077,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F12EA63E-A855-0F50-CECD-9A3B2444964D',timestamp='04/22/2022 11:41:54',type='colombian',size='S',price='CAD$2.50',offer='25%',discount='gft',userId=3040,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='85A00C7D-A436-B0B5-C369-048833C69FEC',timestamp='04/20/2022 01:54:04',type='italian',size='XL',price='CAD$5.50',offer='15%',discount='',userId=3099,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='A2D9AE1E-7B39-9979-AE4B-9E33B9B6FB5B',timestamp='04/23/2022 04:41:34',type='brazilian',size='M',price='CAD$3.50',offer='20%',discount='',userId=3056,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='11E914B3-E453-9967-9436-DB9411BDD281',timestamp='04/04/2022  01:00:16',type='blend',size='XL',price='CAD$5.50',offer='',discount='',userId=3043,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='DE33D8CA-7B2B-F1FD-123C-55D330CA0398',timestamp='04/11/2022  07:05:05',type='italian',size='M',price='CAD$3.50',offer='',discount='',userId=3029,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='C4C4A89D-77B2-179B-AA3B-88C9518EFE7C',timestamp='04/04/2022  07:27:56',type='brazilian',size='XL',price='CAD$5.50',offer='',discount='',userId=3022,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='9CE65FDA-A83A-C8BF-7925-AC41CEB1078E',timestamp='04/03/2022  03:13:27',type='brazilian',size='XL',price='CAD$5.50',offer='20%',discount='ga',userId=3024,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='046D3E7C-214B-868E-0BDE-5016030F0B2A',timestamp='04/04/2022  11:30:07',type='brazilian',size='S',price='CAD$2.50',offer='20%',discount='h&l',userId=3010,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='85A20F2B-A0A5-B592-564E-6369C8295ECC',timestamp='04/30/2022 02:02:44',type='colombian',size='XL',price='CAD$5.50',offer='',discount='ga',userId=3088,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='5DD377BE-E09F-B58D-ED4E-9D81F3E8A019',timestamp='04/12/2022  11:11:34',type='brazilian',size='S',price='CAD$2.50',offer='',discount='gft',userId=3006,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F1354B09-4452-E6A6-74EB-C98F48A2CD8F',timestamp='04/11/2022  12:53:58',type='brazilian',size='S',price='CAD$2.50',offer='15%',discount='sg',userId=3066,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='8F2C05E0-71A4-B0DC-223A-67639A55F107',timestamp='04/12/2022  04:14:06',type='brazilian',size='L',price='CAD$4.50',offer='',discount='sg',userId=3020,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='67709B9E-F93C-CCE8-035C-0F6FC4BC61C7',timestamp='04/15/2022 03:17:25',type='brazilian',size='M',price='CAD$3.50',offer='',discount='ga',userId=3039,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='0AD154B9-E379-0BA7-C597-9FB13CAF7EE1',timestamp='04/29/2022 04:29:07',type='colombian',size='XL',price='CAD$5.50',offer='',discount='',userId=3012,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='34B957B7-036E-151C-3DF2-996F926626B4',timestamp='04/27/2022 05:07:48',type='blend',size='S',price='CAD$2.50',offer='',discount='',userId=3024,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='9448147F-CCB2-118D-3092-7A46E6214D74',timestamp='04/17/2022 04:37:56',type='italian',size='XL',price='CAD$5.50',offer='',discount='',userId=3013,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='0E7BDC07-554C-A4F3-58A2-C48E5114ADB9',timestamp='04/18/2022 01:00:47',type='blend',size='S',price='CAD$2.50',offer='30%',discount='',userId=3039,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='1B2810D1-A753-657A-B5CE-C4097CE0C659',timestamp='04/13/2022 02:02:13',type='colombian',size='M',price='CAD$3.50',offer='',discount='',userId=3038,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='19720356-6D2C-D98F-3928-BD1B81488FB1',timestamp='04/04/2022  11:33:34',type='italian',size='M',price='CAD$3.50',offer='',discount='',userId=3038,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='82D718F6-9FDB-48B1-E553-FF6E4F74DE2A',timestamp='04/04/2022  05:32:15',type='brazilian',size='XL',price='CAD$5.50',offer='',discount='h&l',userId=3055,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='CD917C7B-A34E-1EB1-F083-7E78BE8D4AD9',timestamp='04/19/2022 04:42:05',type='colombian',size='XL',price='CAD$5.50',offer='25%',discount='gft',userId=3093,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='D49A28A8-51C2-9021-378C-D699B03D403E',timestamp='04/10/2022  01:57:05',type='blend',size='S',price='CAD$2.50',offer='20%',discount='',userId=3027,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F4123894-928B-E097-A5E5-A6FE95A11506',timestamp='04/06/2022  12:56:54',type='colombian',size='M',price='CAD$3.50',offer='',discount='',userId=3018,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='1D016916-8124-83CE-CDBC-861B9F79571D',timestamp='04/04/2022  05:03:22',type='colombian',size='L',price='CAD$4.50',offer='',discount='ga',userId=3033,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='DB999AFB-F50B-0D61-CDD2-F9B77AA27F5D',timestamp='04/30/2022 03:21:41',type='italian',size='XL',price='CAD$5.50',offer='30%',discount='',userId=3082,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='3CA8FDAA-424F-B8E6-E2A9-4DA256F53090',timestamp='04/01/2022  11:56:07',type='blend',size='S',price='CAD$2.50',offer='30%',discount='',userId=3073,country=CANADA,city='Montreal'}
+SaleTransaction{uuid='F3B7DE17-B2F0-1F17-2B2D-5E947D8E6355',timestamp='27th Apr 2020 04:10:41',type='brazilian',size='L',price='£4.50',offer='ga',discount='',userId=8,country=UK,city='London'}
+SaleTransaction{uuid='6CE2AF44-0CD3-25A6-9421-FCFB24016249',timestamp='9th Apr 2020 04:14:27',type='colombian',size='S',price='£3.00',offer='sg',discount='15%',userId=12,country=UK,city='London'}
+SaleTransaction{uuid='A3D08F16-D32F-67F0-CB2F-E530390B85DC',timestamp='9th Apr 2020 06:02:06',type='colombian',size='L',price='£4.50',offer='',discount='',userId=49,country=UK,city='London'}
+SaleTransaction{uuid='FD9D075C-3BE5-D3E7-ED08-CE9DBB355D2D',timestamp='20th Apr 2020 10:00:27',type='espresso',size='L',price='£4.50',offer='sg',discount='',userId=94,country=UK,city='London'}
+SaleTransaction{uuid='18FD0825-4CEF-2BB1-978D-31F876ECECEC',timestamp='20th Apr 2020 06:41:21',type='blend',size='S',price='£3.00',offer='h&l',discount='',userId=60,country=UK,city='London'}
+SaleTransaction{uuid='24A8E052-A759-40A4-88A9-EBDFC6295AC1',timestamp='15th Apr 2020 04:05:50',type='blend',size='XL',price='£5.00',offer='',discount='',userId=9,country=UK,city='London'}
+SaleTransaction{uuid='2F7E8399-237C-785E-C4E1-A7923EA99A14',timestamp='4th Apr 2020 08:03:38',type='brazilian',size='S',price='£3.00',offer='',discount='25%',userId=10,country=UK,city='London'}
+SaleTransaction{uuid='B8A48D45-AA58-7B34-F8CD-6F03D92C59AE',timestamp='4th Apr 2020 01:32:50',type='colombian',size='M',price='£3.75',offer='',discount='',userId=10,country=UK,city='London'}
+SaleTransaction{uuid='03678043-061D-C397-5920-7A4FC468AD08',timestamp='30th Apr 2020 07:56:57',type='blend',size='XL',price='£5.00',offer='h&l',discount='',userId=1,country=UK,city='London'}
+SaleTransaction{uuid='5E18FDB7-759E-BFF5-B182-E26ADB24307B',timestamp='28th Apr 2020 07:11:44',type='colombian',size='S',price='£3.00',offer='',discount='15%',userId=54,country=UK,city='London'}
+SaleTransaction{uuid='D690516C-C904-0055-7D1B-029D6EED37CE',timestamp='27th Apr 2020 12:36:57',type='colombian',size='M',price='£3.75',offer='',discount='',userId=23,country=UK,city='London'}
+SaleTransaction{uuid='4D1A2C4A-7F96-1534-AFCA-7FBE3F558053',timestamp='24th Apr 2020 09:15:32',type='brazilian',size='S',price='£3.00',offer='h&l',discount='',userId=41,country=UK,city='London'}
+SaleTransaction{uuid='4B09D963-4BB8-A5E6-37F9-FADA763B3290',timestamp='15th Apr 2020 01:10:39',type='colombian',size='L',price='£4.50',offer='gft',discount='',userId=46,country=UK,city='London'}
+SaleTransaction{uuid='4BC96420-A5DB-9C22-849C-438DECADA4BB',timestamp='30th Apr 2020 12:25:00',type='colombian',size='S',price='£3.00',offer='h&l',discount='',userId=80,country=UK,city='London'}
+SaleTransaction{uuid='D660C815-7756-8642-D700-8AA57FC0EEC8',timestamp='15th Apr 2020 08:27:28',type='espresso',size='M',price='£3.75',offer='',discount='',userId=71,country=UK,city='London'}
+SaleTransaction{uuid='3E655572-A8FB-DC0C-6DEA-6D0CF7FFE9E5',timestamp='25th Apr 2020 08:14:00',type='blend',size='M',price='£3.75',offer='',discount='',userId=20,country=UK,city='London'}
+SaleTransaction{uuid='5F2C2006-5DBF-82FA-B65A-6878E277402D',timestamp='27th Apr 2020 10:53:42',type='colombian',size='M',price='£3.75',offer='ga',discount='20%',userId=88,country=UK,city='London'}
+SaleTransaction{uuid='E1157A61-679B-0BCE-4DC8-F363AC433F54',timestamp='21st Apr 2020 05:29:58',type='blend',size='M',price='£3.75',offer='h&l',discount='20%',userId=22,country=UK,city='London'}
+SaleTransaction{uuid='EF314E0C-9041-0AD0-A9C0-E1A4B2DD0C59',timestamp='6th Apr 2020 04:13:20',type='colombian',size='M',price='£3.75',offer='sg',discount='',userId=23,country=UK,city='London'}
+SaleTransaction{uuid='D1DB8756-D047-3918-920E-ECBCB73FEF71',timestamp='30th Apr 2020 07:17:15',type='blend',size='S',price='£3.00',offer='',discount='15%',userId=87,country=UK,city='London'}
+SaleTransaction{uuid='518F2A6D-DAF6-53B1-98C1-C24233532868',timestamp='24th Apr 2020 07:19:42',type='colombian',size='XL',price='£5.00',offer='',discount='',userId=99,country=UK,city='London'}
+SaleTransaction{uuid='97DE2656-888B-DB6F-91DC-BF4C281A40B7',timestamp='15th Apr 2020 01:02:17',type='blend',size='S',price='£3.00',offer='ga',discount='30%',userId=75,country=UK,city='London'}
+SaleTransaction{uuid='F7E7C550-C65B-CEAE-99C5-BEF9735D19F8',timestamp='4th Apr 2020 12:33:02',type='espresso',size='XL',price='£5.00',offer='h&l',discount='',userId=69,country=UK,city='London'}
+SaleTransaction{uuid='63912E68-4A94-290A-3678-7313A648657E',timestamp='11th Apr 2020 10:07:52',type='blend',size='L',price='£4.50',offer='',discount='',userId=75,country=UK,city='London'}
+SaleTransaction{uuid='362EB171-C89D-B86C-3E43-764023C32F99',timestamp='4th Apr 2020 05:58:49',type='blend',size='S',price='£3.00',offer='',discount='',userId=18,country=UK,city='London'}
+SaleTransaction{uuid='945F7328-2256-68CA-406B-08DB2B3B18AE',timestamp='15th Apr 2020 09:26:29',type='espresso',size='L',price='£4.50',offer='',discount='',userId=28,country=UK,city='London'}
+SaleTransaction{uuid='0FCF5370-4F0F-8E01-4DA7-BAE26AF84F4E',timestamp='2nd Apr 2020 06:51:46',type='colombian',size='L',price='£4.50',offer='',discount='',userId=58,country=UK,city='London'}
+SaleTransaction{uuid='06343C30-FB39-A7D3-096E-F5D61B31D0AA',timestamp='10th Apr 2020 08:49:18',type='colombian',size='M',price='£3.75',offer='',discount='',userId=83,country=UK,city='London'}
+SaleTransaction{uuid='5E582826-0DEB-D699-3FBC-FC29C9243EE2',timestamp='2nd Apr 2020 03:39:54',type='colombian',size='XL',price='£5.00',offer='',discount='',userId=41,country=UK,city='London'}
+SaleTransaction{uuid='5E2DC3E4-E288-5815-804F-4331D726A021',timestamp='6th Apr 2020 04:09:34',type='blend',size='XL',price='£5.00',offer='h&l',discount='',userId=72,country=UK,city='London'}
+SaleTransaction{uuid='2E905A79-2293-0D06-0C8D-1692483F9702',timestamp='13th Apr 2020 05:39:34',type='espresso',size='L',price='£4.50',offer='ga',discount='',userId=5,country=UK,city='London'}
+SaleTransaction{uuid='10930948-FDFF-6BDD-8BEB-8B20284F5681',timestamp='29th Apr 2020 11:12:45',type='brazilian',size='M',price='£3.75',offer='gft',discount='30%',userId=39,country=UK,city='London'}
+SaleTransaction{uuid='AD5A422A-D4BA-F5B3-49C1-EBC3B1456DF1',timestamp='4th Apr 2020 05:28:14',type='brazilian',size='M',price='£3.75',offer='gft',discount='',userId=44,country=UK,city='London'}
+SaleTransaction{uuid='95ED419F-2B78-29D6-183E-8F383320129B',timestamp='29th Apr 2020 02:05:32',type='colombian',size='M',price='£3.75',offer='',discount='',userId=90,country=UK,city='London'}
+SaleTransaction{uuid='2B4E912C-42CF-2D33-54AB-E4738B99E4AF',timestamp='19th Apr 2020 02:10:50',type='espresso',size='M',price='£3.75',offer='',discount='',userId=11,country=UK,city='London'}
+SaleTransaction{uuid='068D891F-AEED-5DF3-73D8-C47FE16D8A08',timestamp='9th Apr 2020 09:43:13',type='colombian',size='S',price='£3.00',offer='ga',discount='',userId=80,country=UK,city='London'}
+SaleTransaction{uuid='4DAFE572-3EDC-22C6-9074-C58578BC61D5',timestamp='4th Apr 2020 10:30:01',type='colombian',size='S',price='£3.00',offer='',discount='20%',userId=10,country=UK,city='London'}
+SaleTransaction{uuid='B5F3DF8D-31ED-5966-3FA7-FB08A830BE08',timestamp='3rd Apr 2020 08:35:30',type='blend',size='XL',price='£5.00',offer='',discount='',userId=11,country=UK,city='London'}
+SaleTransaction{uuid='C2A62697-79B3-149E-44E6-B703DCBE6EB4',timestamp='14th Apr 2020 01:06:53',type='espresso',size='M',price='£3.75',offer='h&l',discount='',userId=95,country=UK,city='London'}
+SaleTransaction{uuid='E9B18250-071B-05F3-7070-30C4FD0B2325',timestamp='2nd Apr 2020 08:52:36',type='espresso',size='M',price='£3.75',offer='',discount='',userId=41,country=UK,city='London'}
+SaleTransaction{uuid='82870DCC-4BE9-EFBA-2880-8D8B5A23A5EB',timestamp='10th Apr 2020 12:03:09',type='blend',size='S',price='£3.00',offer='gft',discount='25%',userId=74,country=UK,city='London'}
+SaleTransaction{uuid='51C4F2C7-EEE3-5E39-DD2E-A29C313FDAA5',timestamp='14th Apr 2020 10:37:46',type='blend',size='L',price='£4.50',offer='ga',discount='15%',userId=39,country=UK,city='London'}
+SaleTransaction{uuid='48A19EDA-4763-51E4-427E-7BD3219E914F',timestamp='20th Apr 2020 06:17:17',type='colombian',size='L',price='£4.50',offer='',discount='20%',userId=47,country=UK,city='London'}
+SaleTransaction{uuid='25429B98-7A8B-2E80-5F0B-73399F6F1E60',timestamp='26th Apr 2020 05:48:06',type='colombian',size='XL',price='£5.00',offer='',discount='20%',userId=88,country=UK,city='London'}
+SaleTransaction{uuid='08AF9FFA-1655-9A14-7EC4-B2886FB6F244',timestamp='23rd Apr 2020 09:00:43',type='colombian',size='S',price='£3.00',offer='',discount='',userId=89,country=UK,city='London'}
+SaleTransaction{uuid='4D6729DF-9684-DAE8-3B7E-3B21D53D88FD',timestamp='5th Apr 2020 02:46:48',type='brazilian',size='S',price='£3.00',offer='h&l',discount='20%',userId=50,country=UK,city='London'}
+SaleTransaction{uuid='2ECE439E-0CE9-E72E-740F-17A2D6305BD3',timestamp='20th Apr 2020 01:33:13',type='espresso',size='M',price='£3.75',offer='gft',discount='20%',userId=3,country=UK,city='London'}
+SaleTransaction{uuid='56004152-182C-204F-99FE-998ED2646584',timestamp='21st Apr 2020 04:28:17',type='blend',size='XL',price='£5.00',offer='',discount='30%',userId=90,country=UK,city='London'}
+SaleTransaction{uuid='96130002-B8B1-4F67-23BB-8223C9690160',timestamp='15th Apr 2020 09:20:40',type='brazilian',size='S',price='£3.00',offer='',discount='30%',userId=10,country=UK,city='London'}
+SaleTransaction{uuid='A3DE0D68-4F97-3052-6876-D081BA7C3197',timestamp='22nd Apr 2020 08:11:40',type='colombian',size='M',price='£3.75',offer='sg',discount='',userId=84,country=UK,city='London'}
+SaleTransaction{uuid='40187454-4A8B-1BFD-E444-5CFDE0C8F968',timestamp='30th Apr 2020 11:57:11',type='blend',size='M',price='£3.75',offer='',discount='25%',userId=97,country=UK,city='London'}
+SaleTransaction{uuid='EA9B4A98-7501-1583-9EF3-E21106C44F46',timestamp='11th Apr 2020 11:39:11',type='brazilian',size='XL',price='£5.00',offer='gft',discount='',userId=24,country=UK,city='London'}
+SaleTransaction{uuid='08DA1190-B48C-0293-C341-E735312D97E7',timestamp='2nd Apr 2020 11:44:16',type='blend',size='S',price='£3.00',offer='',discount='',userId=82,country=UK,city='London'}
+SaleTransaction{uuid='D3B75F84-3F2A-F601-78FD-28D96E0EE1CA',timestamp='29th Apr 2020 09:00:34',type='colombian',size='L',price='£4.50',offer='',discount='',userId=54,country=UK,city='London'}
+SaleTransaction{uuid='88104FD4-DD9F-2A58-C329-777D62D3EDD1',timestamp='3rd Apr 2020 11:15:08',type='blend',size='S',price='£3.00',offer='',discount='',userId=32,country=UK,city='London'}
+SaleTransaction{uuid='FE912DD2-6613-175D-0DD1-D5EC4FA46B14',timestamp='24th Apr 2020 12:47:37',type='espresso',size='M',price='£3.75',offer='h&l',discount='15%',userId=22,country=UK,city='London'}
+SaleTransaction{uuid='FF868BCF-3528-6ACA-7991-66CF151EF1CD',timestamp='12th Apr 2020 02:12:06',type='espresso',size='L',price='£4.50',offer='',discount='',userId=70,country=UK,city='London'}
+SaleTransaction{uuid='0A4B8257-165F-9AEA-B55A-AA7B72B97A5E',timestamp='19th Apr 2020 04:20:27',type='colombian',size='M',price='£3.75',offer='',discount='20%',userId=16,country=UK,city='London'}
+SaleTransaction{uuid='F20A54EF-2A77-DE28-2DFB-657B8B3FAFA0',timestamp='2nd Apr 2020 06:35:21',type='espresso',size='M',price='£3.75',offer='',discount='',userId=25,country=UK,city='London'}
+SaleTransaction{uuid='9FD885D2-9664-82A0-B7AE-695EF594FFAD',timestamp='12th Apr 2020 11:36:10',type='brazilian',size='S',price='£3.00',offer='ga',discount='',userId=63,country=UK,city='London'}
+SaleTransaction{uuid='430ACE91-F868-1336-4998-A8EF8D33F29F',timestamp='7th Apr 2020 11:49:13',type='colombian',size='M',price='£3.75',offer='',discount='',userId=94,country=UK,city='London'}
+SaleTransaction{uuid='8BD07950-04DB-29E0-A0AF-79EA08C4EFC6',timestamp='16th Apr 2020 11:23:24',type='colombian',size='S',price='£3.00',offer='',discount='',userId=9,country=UK,city='London'}
+SaleTransaction{uuid='CF1266B9-DF2F-2EE4-2B83-5704ACF57717',timestamp='2nd Apr 2020 09:50:58',type='espresso',size='XL',price='£5.00',offer='gft',discount='15%',userId=81,country=UK,city='London'}
+SaleTransaction{uuid='BB06DDA0-9130-E14E-D835-9F7F3510BE6A',timestamp='28th Apr 2020 10:07:35',type='colombian',size='XL',price='£5.00',offer='',discount='',userId=9,country=UK,city='London'}
+SaleTransaction{uuid='1B0257D1-C187-7207-831B-F506EE4C05D5',timestamp='30th Apr 2020 09:41:46',type='colombian',size='M',price='£3.75',offer='',discount='',userId=18,country=UK,city='London'}
+SaleTransaction{uuid='8175A1F7-560F-925E-706F-97E63F536A14',timestamp='2nd Apr 2020 10:11:26',type='brazilian',size='S',price='£3.00',offer='',discount='',userId=12,country=UK,city='London'}
+SaleTransaction{uuid='F69DD53A-1373-E808-0929-DCDED15DE53F',timestamp='20th Apr 2020 07:42:25',type='colombian',size='S',price='£3.00',offer='',discount='',userId=44,country=UK,city='London'}
+SaleTransaction{uuid='5BAA8F43-7AC3-7ED2-2C4A-FB5B3F2CD45F',timestamp='14th Apr 2020 02:11:30',type='blend',size='S',price='£3.00',offer='',discount='',userId=75,country=UK,city='London'}
+SaleTransaction{uuid='CF5AC7C9-C037-C46F-C0F8-7FD3509E158E',timestamp='2nd Apr 2020 06:29:56',type='blend',size='M',price='£3.75',offer='sg',discount='15%',userId=28,country=UK,city='London'}
+SaleTransaction{uuid='CE319D2D-AD34-1117-39D5-078203D1EC68',timestamp='19th Apr 2020 03:42:29',type='blend',size='XL',price='£5.00',offer='sg',discount='',userId=88,country=UK,city='London'}
+SaleTransaction{uuid='4284AD83-05B2-43A2-2F3B-AA04892D5C78',timestamp='8th Apr 2020 08:10:43',type='espresso',size='M',price='£3.75',offer='',discount='',userId=6,country=UK,city='London'}
+SaleTransaction{uuid='886A8583-AC38-4BE6-6C0A-C75A8112748E',timestamp='6th Apr 2020 09:36:08',type='blend',size='XL',price='£5.00',offer='',discount='30%',userId=81,country=UK,city='London'}
+SaleTransaction{uuid='427ED753-37F2-5C13-BAB1-0C3C9245E05B',timestamp='21st Apr 2020 11:14:32',type='brazilian',size='M',price='£3.75',offer='sg',discount='',userId=22,country=UK,city='London'}
+SaleTransaction{uuid='04C2ED35-6744-6A58-5255-1CA7911D1D58',timestamp='25th Apr 2020 01:01:15',type='espresso',size='S',price='£3.00',offer='',discount='15%',userId=5,country=UK,city='London'}
+SaleTransaction{uuid='31CF3379-5655-E185-E18D-EA53D85FE4C5',timestamp='24th Apr 2020 04:12:57',type='colombian',size='XL',price='£5.00',offer='',discount='',userId=52,country=UK,city='London'}
+SaleTransaction{uuid='B9431DAD-E090-C5EA-90DA-474FF5CC4F95',timestamp='12th Apr 2020 04:54:37',type='espresso',size='S',price='£3.00',offer='',discount='',userId=58,country=UK,city='London'}
+SaleTransaction{uuid='8C64F7CB-8C24-50F1-0CB3-1FBAF8C446A6',timestamp='27th Apr 2020 02:14:51',type='blend',size='XL',price='£5.00',offer='',discount='',userId=29,country=UK,city='London'}
+SaleTransaction{uuid='7E231C94-03B3-90ED-30E8-6A9A27937D63',timestamp='8th Apr 2020 08:12:45',type='blend',size='XL',price='£5.00',offer='',discount='30%',userId=43,country=UK,city='London'}
+SaleTransaction{uuid='9E87CB4E-367A-F13C-F263-2F5D82F6378D',timestamp='8th Apr 2020 10:21:26',type='espresso',size='M',price='£3.75',offer='sg',discount='',userId=57,country=UK,city='London'}
+SaleTransaction{uuid='287087B9-A67F-0EC1-1BB4-B8239D7F1208',timestamp='22nd Apr 2020 04:34:41',type='espresso',size='S',price='£3.00',offer='',discount='',userId=21,country=UK,city='London'}
+SaleTransaction{uuid='70538E25-1295-57D5-AF22-B402218F89C6',timestamp='10th Apr 2020 07:36:13',type='espresso',size='XL',price='£5.00',offer='ga',discount='30%',userId=89,country=UK,city='London'}
+SaleTransaction{uuid='9639D373-E7F2-FC67-3990-CD487FA74919',timestamp='4th Apr 2020 01:08:01',type='blend',size='XL',price='£5.00',offer='',discount='',userId=52,country=UK,city='London'}
+SaleTransaction{uuid='0B039D55-0EDF-8D74-2B6A-7A5F2CECF6B2',timestamp='5th Apr 2020 02:17:55',type='colombian',size='M',price='£3.75',offer='',discount='30%',userId=41,country=UK,city='London'}
+SaleTransaction{uuid='4E27C39C-6372-4CC0-65BE-48E8CCFFFD5A',timestamp='20th Apr 2020 07:32:28',type='espresso',size='XL',price='£5.00',offer='gft',discount='20%',userId=53,country=UK,city='London'}
+SaleTransaction{uuid='D35AB7D0-CEA7-4639-14F7-B07213B86D54',timestamp='17th Apr 2020 10:30:23',type='brazilian',size='L',price='£4.50',offer='ga',discount='',userId=5,country=UK,city='London'}
+SaleTransaction{uuid='A05722C9-F506-3BD6-BF80-1E355E509147',timestamp='21st Apr 2020 12:25:56',type='espresso',size='S',price='£3.00',offer='',discount='',userId=41,country=UK,city='London'}
+SaleTransaction{uuid='55E5B08E-F0F9-4466-1735-674FCB7C4D46',timestamp='13th Apr 2020 12:46:30',type='colombian',size='XL',price='£5.00',offer='',discount='',userId=42,country=UK,city='London'}
+SaleTransaction{uuid='08609832-205C-4A9A-8EB0-C8415193E6B1',timestamp='13th Apr 2020 10:55:54',type='espresso',size='S',price='£3.00',offer='ga',discount='20%',userId=57,country=UK,city='London'}
+SaleTransaction{uuid='9CFFF5BF-FD69-8566-7AFA-6FD34DF8A262',timestamp='6th Apr 2020 01:55:59',type='blend',size='L',price='£4.50',offer='',discount='15%',userId=51,country=UK,city='London'}
+SaleTransaction{uuid='4CF11C2B-1D03-37E6-45A3-A0743B4CCBDC',timestamp='12th Apr 2020 12:51:23',type='espresso',size='L',price='£4.50',offer='',discount='',userId=66,country=UK,city='London'}
+SaleTransaction{uuid='201069AE-5492-C978-25ED-372FE658D36E',timestamp='13th Apr 2020 10:10:16',type='blend',size='M',price='£3.75',offer='',discount='',userId=30,country=UK,city='London'}
+SaleTransaction{uuid='69A8CBFC-3932-56D8-E948-22FD6A1E44BD',timestamp='14th Apr 2020 01:50:26',type='brazilian',size='L',price='£4.50',offer='',discount='25%',userId=95,country=UK,city='London'}
+SaleTransaction{uuid='698BC9FC-E4E5-80F1-951E-8381F2A1F56B',timestamp='11th Apr 2020 12:46:43',type='colombian',size='XL',price='£5.00',offer='',discount='30%',userId=35,country=UK,city='London'}
+SaleTransaction{uuid='F86075B2-66C0-6747-4D99-BF86FBBF4354',timestamp='8th Apr 2020 05:21:54',type='colombian',size='L',price='£4.50',offer='',discount='25%',userId=29,country=UK,city='London'}
+SaleTransaction{uuid='6926A291-17AE-9A7E-AEC6-D24F7BEC3E31',timestamp='21st Apr 2020 03:57:39',type='blend',size='S',price='£3.00',offer='',discount='15%',userId=14,country=UK,city='London'}
+SaleTransaction{uuid='6B342C13-C9EB-5AE1-52B0-11698AB329B5',timestamp='15th Apr 2020 03:18:13',type='blend',size='XL',price='£5.00',offer='gft',discount='30%',userId=56,country=UK,city='London'}
+SaleTransaction{uuid='503333BA-A9C5-2549-9101-5EF32C150DD7',timestamp='16th Apr 2020 04:42:39',type='colombian',size='M',price='£3.75',offer='',discount='',userId=52,country=UK,city='London'}
+SaleTransaction{uuid='4850E988-A9DB-3399-543E-43CE91A298B5',timestamp='18th Apr 2020 07:32:16',type='colombian',size='S',price='£3.00',offer='',discount='',userId=7,country=UK,city='London'}
+SaleTransaction{uuid='6689CEA0-B3FE-CF53-6EDF-D40EECA5592C',timestamp='26th Apr 2020 07:57:16',type='blend',size='L',price='£4.50',offer='',discount='',userId=33,country=UK,city='London'}
+SaleTransaction{uuid='39CF5068-7804-261F-6EAE-E140F6B2C853',timestamp='23rd Apr 2020 01:10:40',type='espresso',size='L',price='£4.50',offer='gft',discount='',userId=62,country=UK,city='London'}
