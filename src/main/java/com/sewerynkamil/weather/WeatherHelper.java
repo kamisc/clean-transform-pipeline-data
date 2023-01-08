@@ -1,10 +1,7 @@
-package com.sewerynkamil.helper;
+package com.sewerynkamil.weather;
 
-import com.sewerynkamil.model.WeatherData;
-import com.sewerynkamil.model.WeatherLocation;
-
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.time.LocalDate;
 import java.time.YearMonth;
@@ -17,7 +14,7 @@ public class WeatherHelper {
     private double minTemp;
 
     public WeatherHelper(YearMonth ym) {
-        try (FileInputStream fis = new FileInputStream("data/weather-" + ym + ".ser")) {
+        try (InputStream fis = getClass().getClassLoader().getResourceAsStream("data/weather-2022-04.ser")) {
             ObjectInputStream oos = new ObjectInputStream(fis);
             weather = (Map<LocalDate, Map<WeatherLocation, WeatherData>>) oos.readObject();
         } catch (IOException | ClassNotFoundException e) {

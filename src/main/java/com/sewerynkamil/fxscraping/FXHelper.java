@@ -1,9 +1,7 @@
-package com.sewerynkamil.helper;
+package com.sewerynkamil.fxscraping;
 
-import com.sewerynkamil.model.Currency;
-
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.time.LocalDate;
 import java.time.YearMonth;
@@ -17,7 +15,7 @@ public class FXHelper {
 
     public FXHelper(YearMonth ym, Currency baseCurrency) {
         this.baseCurrency = baseCurrency;
-        try (FileInputStream fis = new FileInputStream("data/rates-" + ym + ".ser")) {
+        try (InputStream fis = getClass().getClassLoader().getResourceAsStream("data/rates-2022-04.ser")) {
             ObjectInputStream oos = new ObjectInputStream(fis);
             rates = (Map<LocalDate, Map<Currency, Double>>) oos.readObject();
         } catch (IOException | ClassNotFoundException e) {

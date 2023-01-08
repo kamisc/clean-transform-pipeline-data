@@ -1,4 +1,4 @@
-package com.sewerynkamil.model;
+package com.sewerynkamil.weather;
 
 import java.io.Serializable;
 

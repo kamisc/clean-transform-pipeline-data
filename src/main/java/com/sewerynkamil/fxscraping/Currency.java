@@ -1,4 +1,4 @@
-package com.sewerynkamil.model;
+package com.sewerynkamil.fxscraping;
 
 public enum Currency {
     GBP("GREAT BRITISH POUND", "GBP"),

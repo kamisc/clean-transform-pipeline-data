@@ -1,4 +1,4 @@
-package com.sewerynkamil.model;
+package com.sewerynkamil.weather;
 
 public enum WeatherLocation {
     IT("16061", "TURIN"),
